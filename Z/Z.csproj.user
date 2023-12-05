@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransparentBackgroundTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ZForms\BruhForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZForms\CreditsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZForms\RecordsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZForms\TaskManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZForms\ZPomodoroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZRecordsForms\ChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZRecordsForms\DataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

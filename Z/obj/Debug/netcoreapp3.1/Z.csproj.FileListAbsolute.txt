@@ -1,0 +1,17 @@
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.csproj.ResolveComReference.cache
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.MainForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.SplashScreen.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.ZForms.BruhForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.ZForms.RecordsForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.ZForms.TaskManagementForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.ZForms.ZPomodoroForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.ZRecordsForms.ChartForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.ZRecordsForms.DataForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\netcoreapp3.1\Z.csproj.CoreCompileInputs.cache
