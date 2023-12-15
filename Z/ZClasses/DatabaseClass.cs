@@ -146,7 +146,7 @@ namespace Z.ZClasses
                                "OR TR.FinishTime LIKE @SearchValue " +
                                "OR TR.SpentTime LIKE @SearchValue " +
                                "OR PS.PomodoroCount LIKE @SearchValue " +
-                               "ORDER BY T.TaskId DESC"; // Assuming TaskId is the primary key
+                               "ORDER BY T.TaskId DESC";
 
                 using (SqlConnection sqlConnection = new SqlConnection(databaseConnection))
                 using (SqlCommand command = new SqlCommand(query, sqlConnection))

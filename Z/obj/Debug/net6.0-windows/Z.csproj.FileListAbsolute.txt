@@ -60,3 +60,4 @@ C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\net6.0-windows\Z.ZRecordsForms.ChartFo
 C:\Users\Windows 10\Desktop\Z\Z\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
 C:\Users\Windows 10\Desktop\Z\Z\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
 C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\net6.0-windows\Z.ZForms.CreditsForm.resources
+C:\Users\Windows 10\Desktop\Z\Z\obj\Debug\net6.0-windows\Z.sourcelink.json
